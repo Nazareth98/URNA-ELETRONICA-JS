@@ -20,7 +20,7 @@ body {
 
 .tela {
     width: 500px;
-    height: 320px;
+    height: 345px;
     background: linear-gradient(to right, #E8E8E8, #C1C1C1);
     border: 2px solid #555;
     display: flex;
@@ -129,15 +129,25 @@ body {
 
 .d-1-right {
     width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
 
 .d-1-imagem {
     border: 1px solid #000;
     background-color: #fff;
+    text-align: center;
+    font-size: 14px;
 }
 
 .d-1-imagem img {
     width: 100%;
+}
+
+.d-1-imagem.small{
+    width: 80%;
+    font-size: 12px;
 }
 
 .d-2 {
