@@ -156,3 +156,8 @@ body {
     border-top: 2px solid #000;
     padding: 10px;
 }
+
+.aviso--grande {
+    font-size: 40px;
+    font-weight: bold;
+}
