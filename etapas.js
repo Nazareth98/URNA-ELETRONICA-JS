@@ -33,17 +33,17 @@ let etapas = [
                 vice: 'Cic',
                 fotos: [
                     {url:'10.png', legenda: 'Prefeito'},
-                    {url:'10-2.png', legenda: 'Vice-Prefeito', small: true}
+                    {url:'10_2.png', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
-                numero: '500',
+                numero: '50',
                 nome: 'Zulano',
                 partido: 'QWERTY',
                 vice: 'Zul',
                 fotos: [
                     {url:'50.png', legenda: 'Prefeito'},
-                    {url:'50-2.png', legenda: 'Vice-Prefeito', small: true}
+                    {url:'50_2.png', legenda: 'Vice-Prefeito', small: true}
                 ]
             }
         ]
